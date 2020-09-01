@@ -1,6 +1,10 @@
 # occupation_locaux
 Gestion de l'occupation des locaux dans le cadre du COVID19
 
+
+[![DOI](https://zenodo.org/badge/264869258.svg)](https://zenodo.org/badge/latestdoi/264869258)
+
+
 ## Contexte
 - Besoin de gérer l'occupation des locaux de l'IRHS et de tracer leur utilisation par demi journée.  
 - Un formulaire googleForm a été crée et est rempli par les RE.  
